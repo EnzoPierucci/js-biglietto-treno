@@ -6,7 +6,7 @@
 //L'output del prezzo finale va messo fuori in forma umana (con massimo due decimali, per indicare centesimi sul prezzo). Questo richiederà un minimo di ricerca.
 
 
-let kmD = parseFloat(prompt("Inserisci il numero di chilometri che vuoi percorrere:"));
+let km = parseFloat(prompt("Inserisci il numero di chilometri che vuoi percorrere:"));
 let etaCliente = parseInt(prompt("Inserisci la tua età:"));
 
 
